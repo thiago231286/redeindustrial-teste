@@ -7,7 +7,7 @@
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-bootstrap-maskedinput": "^0.4.0",
